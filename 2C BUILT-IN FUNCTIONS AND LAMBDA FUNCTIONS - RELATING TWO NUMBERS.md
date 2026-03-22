@@ -22,7 +22,8 @@ To write a Python program to check the relation between two numbers — whether 
 ---
 
 ### PROGRAM
-Reg.No: 212222060292
+
+#Reg.No: 212222060292
 #Name: Vijay Aravind S
 #Add your Code Here
 compare = lambda a, b: (
@@ -35,7 +36,7 @@ input1 = int(input())
 input2 = int(input())
 print(compare(input1, input2))
 
-
+---
 ### OUTPUT
 <img width="624" height="229" alt="image" src="https://github.com/user-attachments/assets/82d194dd-0dbc-4df2-be20-b8f07b63f8be" />
 
