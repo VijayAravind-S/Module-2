@@ -34,7 +34,7 @@ while i <= a:
 ```
 ### OUTPUT
 ```
-<img width="593" height="580" alt="image" src="https://github.com/user-attachments/assets/21a2a319-e01e-4f62-8ae9-6fbcc14394d1" />
+<img width="593" height="580" alt="image" src="https://github.com/user-attachments/assets/21a2a319-e01e-4f62-8ae9-6fbcc14394d1"/>
 
 ```
 ### RESULT
