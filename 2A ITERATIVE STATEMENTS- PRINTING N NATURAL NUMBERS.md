@@ -31,13 +31,9 @@ for i in range(1, n + 1):
 
 ```
 ### OUTPUT
-```
 <img width="642" height="588" alt="image" src="https://github.com/user-attachments/assets/f90ae015-fe41-4bff-a5f0-1c5e670290d6" />
 
-```
 ### RESULT
-```
 Thus the program to print n natural numbers using while loop has been implemented and executed successfully.
 
-```
 
