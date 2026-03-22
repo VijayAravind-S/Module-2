@@ -22,7 +22,9 @@ To write a Python program to compute the power of a given number using an approp
 ### PROGRAM
 
 ```
-
+#Reg.No: 212222060292
+#Name: Vijay Aravind S
+#Add Your Code Here
 num = int(input())
 sum = 0
 for i in range(1, num + 1):
